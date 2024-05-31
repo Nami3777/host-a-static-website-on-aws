@@ -1,7 +1,7 @@
 # host-a-static-website-on-aws
 This is the first cloud project to host a static website on aws 
 
-Services: CLI, EC2, Application Load Balancer, Auto Scaling Group, route53, GitHub
+Services: CLI, EC2, Application Load Balancer, Auto Scaling Group, route53, GitHub etc.
 
 Key Takeaways
 
